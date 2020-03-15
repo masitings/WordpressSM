@@ -1,4 +1,0 @@
-[submodule "plugin"]
-	path = wp-content/plugins/ig-scrapper
-	url = git@github.com:masitings/ig-scrapper.git
-	branch = master

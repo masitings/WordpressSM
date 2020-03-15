@@ -1,0 +1,6 @@
+{
+    "name": "root/wordpress",
+    "require": {
+        "aws/aws-sdk-php": "^3.133"
+    }
+}
